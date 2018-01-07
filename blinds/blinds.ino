@@ -2,7 +2,7 @@
  * Blinds
  * 
  * This sketch combines blinds-tx with the LwRx library so that it can recive a command from a lightwaveRF hub
- * and then control some Pellini/Streamline blinds. I took a simple approach with LwRx and just set up a device
+ * and then control some Pellini/Screenline blinds. I took a simple approach with LwRx and just set up a device
  * then used it to look at the code for that device and hardcoded the result.  A more complete approach would allow
  * for device pairing as LwRx has that functionality.
  */
